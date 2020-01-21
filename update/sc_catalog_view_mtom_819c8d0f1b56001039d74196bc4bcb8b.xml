@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="testCatalog">d6cb010f1b56001039d74196bc4bcba2</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-16 20:36:04</sys_created_on>
+        <sys_id>819c8d0f1b56001039d74196bc4bcb8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testCatalog.catalog_testcatalog</sys_name>
+        <sys_package display_value="Global" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_testcatalog">459c8d0f1b56001039d74196bc4bcb8a</sys_portal_page>
+        <sys_scope display_value="Global">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_819c8d0f1b56001039d74196bc4bcb8b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-16 20:36:04</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>
